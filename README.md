@@ -6,9 +6,11 @@ Reactを用いたオーディオヴィジュアルサイトのプロジェクト
 
 ## 環境構築
 
-①サイト内で使用される動画データについて以下のリンクよりダウンロードしてください
+①サイト内で使用される動画データについてダウンロードリンクを共有いたします
 
 ②ダウンロードした動画ファイルをpublicフォルダ直下に移動してください
+
+
 
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
